@@ -1,0 +1,323 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.page1{
+
+margin-left: 17%;
+
+margin-top: 19px;
+}
+.part1{
+
+display: flex;
+}
+.upper1{
+
+display: flex;
+
+margin-right: 61%;
+}
+.upper1 h4{
+
+font-size: 17px;
+
+font-family: system-ui;
+
+color: #434242;
+}
+.upper1 i{
+
+}
+.part1 i{
+
+margin-right: 19px;
+
+margin-top: 5px;
+
+color: #8c8383;
+
+margin-left: 15px;
+}
+.page2{
+
+margin-left: 17%;
+
+display: flex;
+}
+.part2{
+
+margin-top: 24px;
+}
+.upper2{
+
+display: flex;
+
+margin-top: 53px;
+}
+.box1{
+
+height: 51px;
+
+background: #d31e8e;
+
+width: 5px;
+
+border-top-right-radius: 51px;
+
+border-bottom-right-radius: 51px;
+
+margin-top: 18px;
+}
+.some1{
+
+margin-left: 44px;
+
+margin-top: 15px;
+}
+.some1 img{
+
+background: #d31e8e;
+
+width: 54px;
+
+height: 53px;
+
+border-radius: 12px;
+
+margin-left: 31px;
+}
+.some1 h5{
+
+margin-top: 15px;
+
+font-size: 15px;
+
+color: #d31e8e;
+
+font-family: system-ui;
+}
+.upper3{
+
+display: flex;
+
+margin-top: 26px;
+}
+.box1{
+
+height: 51px;
+
+background: #d31e8e;
+
+width: 5px;
+
+border-top-right-radius: 51px;
+
+border-bottom-right-radius: 51px;
+
+margin-top: 18px;
+}
+.some2{
+
+margin-left: 44px;
+
+margin-top: 15px;
+}
+.some2 img{
+
+background: #ddd;
+
+width: 54px;
+
+height: 53px;
+
+border-radius: 12px;
+
+margin-left: 31px;
+}
+.some2 h5{
+
+margin-top: 15px;
+
+font-size: 15px;
+
+color: #867d7d;
+
+font-family: system-ui;
+}
+.part3{
+    
+margin-top: 49px;
+    
+margin-left: 44px;
+}
+.part3 img{
+    
+height: 35%;
+    
+border-radius: 17px;
+}
+.row1{
+
+display: flex;
+
+margin-top: 23px;
+}
+.type1{
+
+margin-right: 34px;
+}
+.type1 input{
+
+position: absolute;
+
+width: 89px;
+
+height: 32px;
+
+border-radius: 21px;
+
+border: solid #ddd;
+}
+.type1 label{
+
+position: relative;
+
+top: 6px;
+
+left: 12px;
+}
+.type6{
+
+margin-right: 14px;
+}
+.type6 select{height: 33px;width: 73px;border-radius: 15px;border: solid #ddd;}
+.page4{
+
+margin-top: 37px;
+}
+.veg{background: #fff;width: 74%;height: 259px;}
+.part4{display: flex;}
+.part4 h2{
+    background-image: url('https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_64,h_108/InstamartAssets/Bleed%20Blue/Offer%20Tag.png');
+    height: 35px;
+    width: 34px;
+    padding-top: 6px;
+    background-size: cover;
+    font-size: 13px;
+    padding-left: 6px;
+    color: white;
+    margin-right: 100px;
+    padding-right: 5px;
+}
+.part4 img{
+    
+border-radius: 0px;
+    
+height: 128px;
+}
+.page4 i{
+    
+border: solid;
+    
+height: 24px;
+    
+position: relative;
+    
+padding-top: 7px;
+    
+width: 29px;
+    
+font-size: 19px;
+    
+border-color: blue;
+    
+color: blue;
+    
+margin-left: 80px;
+    
+border-radius: 9px;
+    
+padding-right: 8px;
+    
+padding-left: 7px;
+}
+.part5{
+
+margin-top: 8px;
+
+font-family: system-ui;
+}
+.part5 h6{
+
+font-size: 10px;
+
+text-transform: uppercase;
+
+font-weight: 700;
+
+color: #a09999;
+}
+.part5 h4{
+}
+.part5 p{
+
+margin-top: 16px;
+
+font-size: 13px;
+
+color: #747272;
+
+font-weight: 500;
+}
+.part6{
+}
+.part6 p{margin-top: 18px;font-size: 14px;}
+.part7{
+
+display: flex;
+
+margin-top: 2px;
+}
+.part7 h5{
+
+font-size: 16px;
+}
+.part7 p{
+
+margin-top: 1px;
+
+margin-left: 4px;
+
+font-size: 14px;
+
+text-decoration: line-through;
+}
+.some3{
+    display: flex;
+}
+.one{
+
+margin-top: 18px;
+}
+.one select{
+
+width: 80px;
+
+height: 26px;
+
+border: 0;
+
+font-size: 13px;
+
+color: #747272;
+
+font-weight: 500;
+
+position: relative;
+
+right: 7px;
+}
+.one option{
+
+}

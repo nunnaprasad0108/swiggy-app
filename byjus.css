@@ -1,0 +1,157 @@
+.bgimage{
+    
+background-image: url('ass/children.png');
+    
+height: 100%;
+    
+background-repeat: no-repeat;
+    
+background-size: cover;
+    
+background-position: center;
+}
+.logo{
+
+background: green;
+
+height: 61px;
+}
+.logo marquee{
+           font-size: 23px;
+}
+.logo button{
+border-radius: 46%;
+}
+.heading{/* background: orange; *//* width: 999px; *//* margin-left: 121px; */width: -49px;height: 48px;}
+.heading span{
+
+margin-left: 251px;
+
+font-size: 40px;
+
+color: green;
+}
+.box1{
+float: right;
+margin-right: 176px;
+background: yellow;
+width: 443px;
+padding: 0px 0px 0px 41px;
+margin-top: 26px;
+}
+.heading1{
+
+/* background: white; */
+}
+.heading1 h1{
+margin-left: 47px;
+}
+.heading1 h3{
+margin-left: 95px;
+}
+.heading1 h5{
+margin-left: 104px;
+}
+.online{
+}
+.online input{
+
+position: absolute;
+}
+.online label{
+           
+position: relative;
+           
+margin-left: 111px;
+           
+/* float: left; */
+           
+margin-right: 64px;
+           
+right: 101px;
+}
+.heading2{
+
+margin-left: 119px;
+}
+.heading h3{
+
+}
+.form{
+}
+.form label{position: relative;}
+.form input{
+
+padding: 10px 0px 0px 222px;
+
+position: absolute;
+}
+.form1{
+
+margin-top: 33px;
+}
+.form1 label{
+
+position: relative;
+}
+.form1 input{
+           
+position: absolute;
+           
+padding: 7px 146px 0px 0px;
+}
+.form1 button{
+           
+margin-left: 207px;
+           
+padding: 7px 15px 0px 6px;
+           
+background: blue;
+           
+color: white;
+           
+text-transform: capitalize;
+}
+.form2{
+
+margin-top: 20px;
+}
+.form2 label{
+
+position: relative;
+
+padding: 20px 0px 0px 0px;
+}
+.form2 input{
+
+position: absolute;
+
+padding: 12px 0px 0px 227px;
+}
+.form3{
+
+margin-top: 35px;
+
+padding: 0px 0px 0px 1px;
+}
+.form3 select{
+
+padding: 9px 282px 2px 67px;
+}
+.form3 option{
+
+padding: 0px 0px 0px 0px;
+}
+.form4{
+
+margin-top: 20px;
+}
+.form4 button{
+           
+padding: 6px 162px 7px 110px;
+           
+background: orangered;
+           
+color: white;
+}
+
